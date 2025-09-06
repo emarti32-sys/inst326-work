@@ -17,4 +17,3 @@ if __name__ == "__main__":
     human_age = dog_years(age)
     print(f"A{age}-year-old dog is equivalent to a {human_age}-year-old"
           f" person.")
-    print('coming from my mac')
