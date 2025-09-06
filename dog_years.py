@@ -18,4 +18,3 @@ if __name__ == "__main__":
     print(f"A{age}-year-old dog is equivalent to a {human_age}-year-old"
           f" person.")
     
-# adding new line
